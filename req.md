@@ -226,3 +226,8 @@ Dependency /Package Management: Dep(https://github.com/golang/dep)
 Dependency Injection: 
 https://github.com/google/go-cloud/tree/master/wire https://blog.drewolson.org/dependency-injection-in-go 
 Validation: https://github.com/go-ozzo/ozzo-validation
+
+
+
+
+https://chatgpt.com/share/30fd5b9b-ad03-4798-9917-7bf183c608f7
